@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+venv/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+*.md
+
+# Testing
+tests/
+.pytest_cache/
+.coverage
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
