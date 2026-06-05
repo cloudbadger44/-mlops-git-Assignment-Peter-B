@@ -1,7 +1,7 @@
 # -mlops-git-Assignment-Peter-B
 
-**Course:** MAI201 MLOps
-**Date:** 2025-05-01
+**Author:** Peter B
+**Student ID:** YOUR_STUDENT_ID
 
 ## Project Description
 This repository demonstrates Git branching and collaboration workflows
