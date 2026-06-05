@@ -25,3 +25,12 @@ build/
 tests/
 .pytest_cache/
 .coverage
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
