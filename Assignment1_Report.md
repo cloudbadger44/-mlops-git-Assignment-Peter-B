@@ -1,7 +1,8 @@
 # Assignment 1 Report - Git Branching and Collaboration
 
 ## GitHub Network Graph
-![Uploading Network graph.png…]()
+
+<img width="837" height="494" alt="Network graph" src="https://github.com/user-attachments/assets/fdfabc27-5397-4fb3-b813-829952ed6a7c" />
 
 
 ## Branch Protection Rules
