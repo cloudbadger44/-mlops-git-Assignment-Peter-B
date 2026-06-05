@@ -13,3 +13,6 @@ for MAI201 MLOps.
 1. Clone this repository
 2. Create a virtual environment: python -m venv venv
 3. Activate it: source venv/bin/activate
+
+## License
+This project is licensed under the MIT License.
