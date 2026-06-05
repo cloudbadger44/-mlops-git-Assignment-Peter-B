@@ -1,12 +1,10 @@
 # Assignment 1 Report - Git Branching and Collaboration
 
 ## GitHub Network Graph
-(Insert screenshot of GitHub network graph here)
-Go to: https://github.com/cloudbadger44/-mlops-git-Assignment-Peter-B/network
+
 
 ## Branch Protection Rules
-(Insert screenshot of branch protection rules here)
-Go to: Settings -> Branches -> click the main branch rule
+
 
 ## Git Log
 
